@@ -21,7 +21,7 @@ Welcome to **CBEC AI+ Labs** - your next-gen AI pitstop for cross-border ecommer
 ---
 ## 🔗 Let's Connect:
 
-**广东科技学院**：
+**广东科技学院大湾区产教融合研究院**：
 
 地址：东莞市环城南路广东科技学院（北门）创业楼10楼1002室
 
