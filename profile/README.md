@@ -27,5 +27,4 @@ Welcome to **CBEC AI+ Labs** - your next-gen AI pitstop for cross-border ecommer
 
 电话：0769-86211668
 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.3409897590177!2d113.7547529!3d22.9744852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403a1d3ae19119f%3A0x5ed887835e3a84ef!2sGuangdong%20University%20of%20Science%20%26%20Technology%20%EF%BC%88North%20Gate%EF%BC%89!5e0!3m2!1sen!2shk!4v1746702254543!5m2!1sen!2shk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+![Google Map](map.png)
