@@ -1,5 +1,11 @@
 # 🌏🚀 跨境电商AI+ | CBEC AI+ Labs
 
+<p align="center">
+<img src="https://img.shields.io/badge/WeChat&Tel-15600907679-green?logo=wechat" />
+</p>
+
+---
+
 **Bridging the Digital and Cross-Border E-Commerce with Open-Source AI Magic**  
 *"We don't just predict trends – we create cross-border revolutions!"*
 
